@@ -1,1 +1,1 @@
-# design-patterns-in-kotlin
+# design-patterns
